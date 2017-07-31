@@ -21,4 +21,4 @@ The Delphi component is TColorWheel2, located in TColorWheel.pas, install it by 
 
 There is a test project in ColorWheeTest/ColorWheelTest.proj open this project and run. The screen is as below:
 
-![Alt Image Text](https://github.com/daven11/ColorWheel/ColorWheelTest.png "Sample Test Display")`
+![Alt Image Text](https://raw.githubusercontent.com/daven11/ColorWheel/master/ColorWheelTest.png "Sample Test Display")`
